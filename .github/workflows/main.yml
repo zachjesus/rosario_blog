@@ -78,6 +78,3 @@ jobs:
       - name: Sync to S3
         id: deployment
         run: aws s3 sync ./public/ s3://${{ vars.BUCKET_NAME }} --delete --cache-control max-age=31536000
-      - name: Cloudfront Invalidation
-        id: flushcache
-        run: aws cloudfront create-invalidation --distribution-id ${{ vars.CF_DISTRIBUTION_ID }} --paths "/*"
