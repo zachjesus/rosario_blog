@@ -1,0 +1,2 @@
+Zachary Rosario is a senior at Stevens Institute of Technology majoring in [STS](https://www.stevens.edu/program/science-technology-society) and [CS](https://www.stevens.edu/school-engineering-science/departments/computer-science). He is interested in Information Science and History master's programs. Currrently, he is working building a permanent archive with a grant from [AR.IO](https://ar.io/grants) for the Steven's [Library](https://library.stevens.edu/home) and [Archive](https://library.stevens.edu/archives).
+
