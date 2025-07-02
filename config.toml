@@ -1,3 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.zrosario.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'my blog'
+theme = "ritzy"
+[params]
+  author = "Your Name"
+  description = "Your site description"
