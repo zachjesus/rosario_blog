@@ -3,5 +3,5 @@ languageCode = 'en-us'
 title = 'my blog'
 theme = "ritzy"
 [params]
-  author = "Your Name"
-  description = "Your site description"
+  author = "Zachary Rosario"
+  description = "CS and STS student at Stevens Institute of Technology. Here you will find my writings."
