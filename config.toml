@@ -1,6 +1,6 @@
 baseURL = 'https://www.zrosario.com/'
 languageCode = 'en-us'
-title = 'my blog'
+title = 'zach rosario blog'
 theme = "ritzy"
 [params]
   author = "Zachary Rosario"
