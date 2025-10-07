@@ -8,7 +8,7 @@ Inspired by this [paper](https://www.emerald.com/oir/article/49/8/62/1267576/Dec
 
 With my settings in Hyphe every website is represented as a node and every site it hyperlinks to gets a node connected by an edge. In fashion of the paper, I started with Monoskop for my first shadow library to scrape. Out of the all sites I visited, it has the most links to both popular and obscure digital libraries plus it is more up to date in information. I also crawled textz, Memory of the World and Annas Archive for their hyperlinks too.
 
-Here's the first result (try opening in a new tab and zooming out/in).
+Here's the first result. Try opening it in a new tab, zooming/scrolling around and maybe ctrl+f your favorite site.
 
 ![Graph of Monoskop, textz, Memory of the World and Annas Archive's Hyperlinks](/images/shadow_library_test_one.svg)
 *Fig 1. Graph of Monoskop, textz, Memory of the World and Annas Archive's Hyperlinks by Zach Rosario*
