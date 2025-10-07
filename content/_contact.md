@@ -1,1 +1,1 @@
-Contact at zrosario@stevens.edu
+Contact at zrosario@stevens.edu or zrosario301@gmail.com
