@@ -2,7 +2,7 @@
 title: Graphing Shadow Libraries
 date: 2025-10-06
 draft: false
-description: How are Shadow Libraries so resiliant?
+description: How are Shadow Libraries so Resilient?
 ---
 Inspired by this [paper](https://www.emerald.com/oir/article/49/8/62/1267576/Decentralized-digital-preservation-the-LOCKSS), I decided to use [Hyphe](https://github.com/medialab/hyphe), a research orientated web scraper, to graph the relationships between shadow libraries.
 
